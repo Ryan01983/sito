@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f7f7fb; color: #222; line-height: 1.5; }
+header { background: #2b6cb0; color: white; padding: 20px; text-align: center; }
+header h1 { margin: 0; }
+nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: 500; }
+main { padding: 20px; max-width: 900px; margin: 0 auto; }
+ul { padding-left: 20px; }
+footer { padding: 16px; text-align: center; color: #555; font-size: 0.9rem; }
+img.illustration { display: block; max-width: 100%; margin: 15px auto; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.2); }
